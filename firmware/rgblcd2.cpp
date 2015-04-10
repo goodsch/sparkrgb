@@ -14,7 +14,7 @@
  ****************************************************/
 
 
-#include "rgblcd.h"
+#include "rgblcd2.h"
 
 #if defined (SPARK)
  #define WIRE Wire
