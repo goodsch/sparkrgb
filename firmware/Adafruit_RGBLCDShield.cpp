@@ -14,7 +14,7 @@
  ****************************************************/
 
 
-#include "Adafruit_RGBLCDShield.h"
+#include "rgblcd.h"
 
 #if defined (SPARK)
  #define WIRE Wire
